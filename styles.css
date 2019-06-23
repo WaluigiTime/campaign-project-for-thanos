@@ -1,0 +1,48 @@
+body {
+  font-family: 'Lato', sans-serif;
+}
+
+body {
+  background-color: #db6af2;
+}
+
+button {
+  background-color: #d899e5;
+}
+
+img {
+width:400px;
+height:300px;
+}
+
+.h3 {
+padding: 20px;
+}
+
+.h2 {
+padding: 20px;
+}
+
+.picture1 {
+margin: 20px;
+display:flex;
+}
+
+.picture2 {
+margin: 20px;
+}
+
+.picture3 {
+margin: 20px;
+}
+
+.picture4 {
+margin: 20px;
+}
+
+.boxparts {
+display:flex;
+justify-content:flex-start;
+}
+
+
