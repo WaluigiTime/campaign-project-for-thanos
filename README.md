@@ -1,1 +1,0 @@
-# campaign-project-for-thanos
